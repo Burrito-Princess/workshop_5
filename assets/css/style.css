@@ -229,7 +229,7 @@
 
 #brick24{
     background-color: pink;
-    width: 35px;
+    width: 100px;
     height: 25px;
     display:inline-block;
     margin-left: 5px;
@@ -247,7 +247,7 @@
 
 #brick26{
     background-color: pink;
-    width: 35px;
+    width: 100px;
     height: 25px;
     display:inline-block;
     margin-left: 10px;
