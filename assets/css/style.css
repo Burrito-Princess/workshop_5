@@ -1,0 +1,492 @@
+#wall{
+    width:500px;
+    height:300px;
+    background-color: gray;
+}
+
+#brick1{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick2{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick3{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick4{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick5{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick6{
+    background-color: pink;
+    width: 50px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick7{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick8{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick9{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick10{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick11{
+    background-color: pink;
+    width: 50px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick12{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick13{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick14{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick15{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick16{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick17{
+    background-color: pink;
+    width: 50px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick18{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick19{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick20{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick21{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick22{
+    background-color: pink;
+    width: 50px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick23{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick24{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick25{
+    background-color: gray;
+    width: 190px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick26{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick27{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick28{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick29{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick30{
+    background-color: gray;
+    width: 190px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick31{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick32{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick33{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick34{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick35{
+    background-color: gray;
+    width: 190px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick36{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick37{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick38{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick39{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick40{
+    background-color: gray;
+    width: 190px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick41{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick42{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick43{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick44{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick45{
+    background-color: gray;
+    width: 190px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick46{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick47{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick48{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#brick49{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#brick50{
+    background-color: gray;
+    width: 190px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick51{
+    background-color: pink;
+    width: 100px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#brick52{
+    background-color: pink;
+    width: 35px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.row{
+    display:flex;
+}
