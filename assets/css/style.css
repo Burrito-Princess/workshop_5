@@ -263,6 +263,16 @@
     margin-bottom: 5px;
 }
 
+
+#brick27B{
+    background-color: rgb(240, 86, 111);
+    width: 80px;
+    height: 25px;
+    display:inline-block;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
 #brick28{
     background-color: pink;
     width: 35px;
@@ -309,7 +319,7 @@
 }
 
 #brick33{
-    background-color: pink;
+    background-color: rgb(243, 139, 157);
     width: 100px;
     height: 25px;
     display:inline-block;
@@ -318,7 +328,7 @@
 }
 
 #brick34{
-    background-color: pink;
+    background-color: rgb(240, 86, 111);
     width: 35px;
     height: 25px;
     display:inline-block;
@@ -345,7 +355,7 @@
 }
 
 #brick37{
-    background-color: pink;
+    background-color: rgb(128, 29, 45);
     width: 100px;
     height: 25px;
     display:inline-block;
@@ -363,7 +373,7 @@
 }
 
 #brick39{
-    background-color: pink;
+    background-color: rgb(255, 192, 234);
     width: 100px;
     height: 25px;
     display:inline-block;
@@ -381,7 +391,7 @@
 }
 
 #brick41{
-    background-color: pink;
+    background-color: rgb(226, 79, 231);
     width: 100px;
     height: 25px;
     display:inline-block;
